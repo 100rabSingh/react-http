@@ -1,0 +1,11 @@
+React and HTTP:
+React is a library so it has no concern with HTTP.
+
+How to make AJAX request or make API calls in React?
+ => React itself does not have particular way to fetch or send data to the server.
+    In fact as fas as React is concerned it doesn't have to even know that there is a server in the picture. React simply read state and
+    props and render it to UI.
+    To get data from the server you have to get data into your props and state.
+
+If React isn't going to handle the request, then who will?
+ => We Use and HTTP library like Axios, fetch API etc.
