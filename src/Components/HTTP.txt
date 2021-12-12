@@ -9,3 +9,4 @@ How to make AJAX request or make API calls in React?
 
 If React isn't going to handle the request, then who will?
  => We Use and HTTP library like Axios, fetch API etc.
+
